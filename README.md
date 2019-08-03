@@ -3,7 +3,7 @@
 Forked from [@ Cong Min ](https://github.com/mcc108/resume)
 * `v2019` 校招简历
 
-**Fork或借鉴请遵循 [LICENSE](./LICENSE) 并注明出处 Thx**
+**· Fork或借鉴请遵循 [LICENSE](./LICENSE) 并注明出处 Thx**
 
 - 0、**安装依赖：** `npm i`
 - 1、**启动：** `npm run dev` 开启调试服务
