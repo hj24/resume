@@ -13,4 +13,4 @@ Forked from [@ Cong Min ](https://github.com/mcc108/resume)
 
 > chrome浏览器 > 打印 > 目标另存为`PDF` > 更多设置无边距 > 即可导出
 
-![黄健-简历](https://raw.githubusercontent.com/mcc108/resume/master/resume.jpg)
+![黄健-简历](https://raw.githubusercontent.com/hj24/resume/master/resume.jpg)
